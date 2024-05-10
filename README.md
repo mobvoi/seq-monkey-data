@@ -14,6 +14,7 @@
   - [中文通用文本语料](docs/pretrain_open_corpus.md)
   - [古诗今译语料](docs/cchs_open_corpus.md)
   - [文本生成语料](docs/ft_open_corpus.md)
+  - [AI配音多风格分类音频语料](docs/speaker_style_data.md)
 
 ## 使用许可
 
@@ -23,3 +24,4 @@
 ## 更新日志
 
 - 2024-01-31：首次发布
+- 2024-05-10：添加风格分类音频预料
