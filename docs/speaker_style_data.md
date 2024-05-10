@@ -15,6 +15,12 @@
     - style.csv：格式`speaker_id,style_id,audio_path`
     - style_data：音频文件所在目录
 
+| 文件名字组成 | 说明            |
+| ------------ | --------------- |
+| `speaker_id` | speaker的唯一ID |
+| `style_id`   | style的唯一ID，不同speaker会有相同的style   |
+| `wav_id`     | 音频的唯一ID    |
+
 
 ## 数据下载
 
